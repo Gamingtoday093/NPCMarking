@@ -11,7 +11,7 @@ Reward_#_Value <RewardValue>
 Reward_#_Modification Assign
 ```
 
-`<RewardValue>` Represents either a value to describe a location or the index of a Spawnpoint/Location depending on what FlagID you are specifying. You can easily get this Value by using the appropriate Command found further down. For example `/cpos` will give you the closest possible Flag Value for your current Position. 
+`<RewardValue>` represents either a value to describe a Position or the index of a Spawnpoint/Location depending on what FlagID you are specifying. You can easily get this Value by using an appropriate Command found further down. For example `/cpos` will give you the closest possible Flag Value for your current Position. 
 
 ## Commands
 **GetClosestPosition**  
